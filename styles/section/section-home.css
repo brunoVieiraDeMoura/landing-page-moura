@@ -32,13 +32,13 @@
 .get-data {
   display: flex;
   /* background: pink; */
-  flex-wrap: wrap;
   gap: 0px 24px;
 }
 
 /* BOTÃO E INPUT CONTAINER */
 .email-data {
   display: flex;
+  width: 100%;
 }
 
 /* ON-OFF TEXTOS PARA MIDIAQUERY */
@@ -108,6 +108,9 @@
 
 /* DESKTOP PADRÃO */
 @media screen and (min-width: 1024px) and (max-width: 1281px) {
+  .get-data {
+    flex-wrap: wrap;
+  }
   .on-off {
     display: block;
   }
@@ -161,6 +164,9 @@
   }
   .email-data {
     margin-top: 0.875rem;
+  }
+  .get-data {
+    flex-wrap: wrap;
   }
 }
 
