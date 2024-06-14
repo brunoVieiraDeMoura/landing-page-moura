@@ -35,7 +35,7 @@
   margin-top: 4.5rem;
 }
 .mrg-xl {
-  margin-top: 9rem;
+  margin-top: 6rem;
 }
 
 .mrg-xll {
@@ -75,7 +75,7 @@
     margin-top: 0rem;
   }
   .mrg-xll {
-    margin-top: 9rem;
+    margin-top: 7rem;
   }
 }
 
@@ -116,16 +116,16 @@
     margin-top: 0rem;
   }
   .mrg-xll {
-    margin-top: 6rem;
+    margin-top: 4rem;
   }
   .mrg-xl {
-    margin-top: 4rem;
+    margin-top: 2rem;
   }
 }
 
 @media screen and (min-width: 381px) and (max-width: 411px) {
   .mrg-xll {
-    margin-top: 6rem;
+    margin-top: 4rem;
   }
   .mrg-m {
     margin-top: 1rem;
@@ -137,7 +137,7 @@
     margin-top: 2rem;
   }
   .mrg-xl {
-    margin-top: 1.5rem;
+    margin-top: 1rem;
   }
   .mrg-m {
     margin-top: 1rem;
